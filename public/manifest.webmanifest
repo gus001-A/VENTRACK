@@ -1,0 +1,14 @@
+{
+    "name": "VENTRACK · Promoción de ventas en tiempo real",
+    "short_name": "VENTRACK",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#F3F7FA",
+    "theme_color": "#0461D8",
+    "lang": "es-MX",
+    "icons": [
+        { "src": "icons/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+        { "src": "icons/favicon-512.png", "sizes": "512x512", "type": "image/png" },
+        { "src": "icons/favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+    ]
+}
